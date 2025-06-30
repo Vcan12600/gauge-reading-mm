@@ -1,29 +1,30 @@
 # Gauge-Reading-MM
 
-Code and resources for our paper:
+This repository accompanies our paper submission:
 
-**"Language as a Supervisor: A Text-Driven Visual Learning Approach for General Purpose Meter Reading"**  
-📄 Submitted for review.
-
----
-
-## 📌 Status
-
-We are preparing a clean version of the code.  
-It will be released publicly after paper review.
+**"Language as a Supervisor: A Text-Driven Visual Learning Approach for General Purpose Meter Reading"**
 
 ---
 
-## 📝 What to Expect
+## 📌 Code Status
 
-- Core model and training scripts  
-- Sample dataset and annotation format  
-- Evaluation tools and demo notebooks  
+The code is currently being cleaned and organized.  
 
-Stay tuned!
+
+We will continue updating this repo with:
+
+- Model code and training scripts  
+- Inference and evaluation examples
+
+---
+
+## 🔄 Updates
+
+Code and resources will be progressively added during the review process.
 
 ---
 
 ## 📬 Contact
 
-For questions, please contact: [your_email@example.com]
+If you have questions or need additional materials during review, please contact:  
+📧 [vacanth0126@gmail.com]
