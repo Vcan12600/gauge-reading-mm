@@ -10,21 +10,40 @@ This repository accompanies our paper submission:
 
 The code is currently being cleaned and organized.  
 
+We have uploaded:
 
-We will continue updating this repo with:
-
-- Model code and training scripts  
-- Inference and evaluation examples
+- ✅ Fine-tuning code (`src/`)
+- ✅ Training and evaluation dataset (`dataset/`)
+- ✅ Configuration (`src/training_config.py`)
+- 🛠️ Inference and evaluation scripts will be added soon
 
 ---
 
 ## 🔄 Updates
 
-Code and resources will be progressively added during the review process.
+- **[2025-07]** Initial release with fine-tuning pipeline and dataset  
+- **Next:** Inference demo and model checkpoints
 
 ---
 
-## 📬 Contact
+## 🛠️ Fine-tuning Usage
 
-If you have questions or need additional materials during review, please contact:  
-📧 [vacanth0126@gmail.com]
+We provide scripts for constructing the dataset and training the model from scratch.
+
+### 📁 Project Structure
+
+```bash
+Gauge-Reading-MM/
+│
+├── src/
+│   ├── build_dataset.py       # Script to preprocess/construct training data
+│   ├── finetuning.py          # Fine-tuning entry point
+│   ├── training_config.py     # Training parameters and config
+│
+├── dataset/
+│   ├── train/                 # Training images
+│   └── eval/                  # Evaluation set
+│       ├── images/            # Test/eval images
+│       └── labels.json        # Ground truth labels
+│
+└── save/               # Output directory for model weights (optional)
