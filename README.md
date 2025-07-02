@@ -46,4 +46,5 @@ Gauge-Reading-MM/
 │       ├── images/            # Test/eval images
 │       └── labels.json        # Ground truth labels
 │
-└── save/               # Output directory for model weights (optional)
+├── model/                     # Saved model weights (e.g., best_model.pth)
+└── save/                      # Optional directory for logs, checkpoints, etc.
