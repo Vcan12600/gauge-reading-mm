@@ -1,0 +1,685 @@
+[
+    {
+        "image": "(1007).jpg",
+        "min": "0",
+        "max": "60",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,10"
+    },
+    {
+        "image": "(1347).jpg",
+        "min": "0",
+        "max": "0.6",
+        "reading": "0.24",
+        "ticks": "10",
+        "reading_norm": "0.4",
+        "tick_pos": "0.2,0.3"
+    },
+    {
+        "image": "(1359).jpg",
+        "min": "0",
+        "max": "0.1",
+        "reading": "0.014",
+        "ticks": "10",
+        "reading_norm": "0.14",
+        "tick_pos": "0,0.02"
+    },
+    {
+        "image": "(19038).jpg",
+        "min": "0",
+        "max": "3",
+        "reading": "0.5",
+        "ticks": "10",
+        "reading_norm": "0.1667",
+        "tick_pos": "0,1"
+    },
+    {
+        "image": "(8263).jpg",
+        "min": "0",
+        "max": "3",
+        "reading": "0.6",
+        "ticks": "10",
+        "reading_norm": "0.2",
+        "tick_pos": "0,1"
+    },
+    {
+        "image": "(8372).jpg",
+        "min": "0",
+        "max": "70",
+        "reading": "33",
+        "ticks": "10",
+        "reading_norm": "0.4714",
+        "tick_pos": "30,40"
+    },
+    {
+        "image": "(945).jpg",
+        "min": "0",
+        "max": "1.6",
+        "reading": "0",
+        "ticks": "8",
+        "reading_norm": "0.0",
+        "tick_pos": "0,0.4"
+    },
+    {
+        "image": "0306.jpg",
+        "min": "-0.1",
+        "max": "0.9",
+        "reading": "0.52",
+        "ticks": "10",
+        "reading_norm": "0.62",
+        "tick_pos": "0.4,0.6"
+    },
+    {
+        "image": "0313.jpg",
+        "min": "-0.1",
+        "max": "0.9",
+        "reading": "0.52",
+        "ticks": "10",
+        "reading_norm": "0.62",
+        "tick_pos": "0.4,0.6"
+    },
+    {
+        "image": "04fbbd770ed141a6bef466590b43a4f0_jpeg_jpg.rf.dee648de32366c7f4f000b8618b41587.jpg",
+        "min": "140",
+        "max": "280",
+        "reading": "140",
+        "ticks": "2",
+        "reading_norm": "0.0",
+        "tick_pos": "140,160"
+    },
+    {
+        "image": "1101003866030103662.jpg",
+        "min": "0",
+        "max": "3",
+        "reading": "0.5",
+        "ticks": "10",
+        "reading_norm": "0.1667",
+        "tick_pos": "0,1"
+    },
+    {
+        "image": "110100386603010603.jpg",
+        "min": "0",
+        "max": "5",
+        "reading": "2.1",
+        "ticks": "10",
+        "reading_norm": "0.42",
+        "tick_pos": "2,3"
+    },
+    {
+        "image": "110100386603010604.jpg",
+        "min": "0",
+        "max": "5",
+        "reading": "2.1",
+        "ticks": "10",
+        "reading_norm": "0.42",
+        "tick_pos": "2,3"
+    },
+    {
+        "image": "150-1_jpg.rf.b1fe8943b002f3a50a963f690328cb30.jpg",
+        "min": "0",
+        "max": "150",
+        "reading": "0",
+        "ticks": "2",
+        "reading_norm": "0.0",
+        "tick_pos": "0,20"
+    },
+    {
+        "image": "169183_jpg.rf.fc921b7ef5e0057fe44700eb72ce6be6.jpg",
+        "min": "0",
+        "max": "450",
+        "reading": "410",
+        "ticks": "15",
+        "reading_norm": "0.9111",
+        "tick_pos": "300,450"
+    },
+    {
+        "image": "1965347_20210624165351_jpeg.rf.a202ae8660c03301e79e67d2c8b575ec.jpg",
+        "min": "-0.1",
+        "max": "0.9",
+        "reading": "0.38",
+        "ticks": "10",
+        "reading_norm": "0.48",
+        "tick_pos": "0.2,0.4"
+    },
+    {
+        "image": "1ad9da980da14c06a66855bd4cefe152_jpeg_jpg.rf.37d8d32531b44ce720ab3b84a1c24678.jpg",
+        "min": "-1",
+        "max": "2",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.3333",
+        "tick_pos": "-0.5,0"
+    },
+    {
+        "image": "1e88052ed54848b09053e0e4ba501f14_jpeg_jpg.rf.5beb3d48c6337f6382a63b2aa4bea221.jpg",
+        "min": "0",
+        "max": "40",
+        "reading": "40",
+        "ticks": "10",
+        "reading_norm": "1.0",
+        "tick_pos": "40,30"
+    },
+    {
+        "image": "200774_20210625154216_jpeg.rf.c461c33682040dcc22798ada6b9fcf24.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "42",
+        "ticks": "10",
+        "reading_norm": "0.42",
+        "tick_pos": "40,60"
+    },
+    {
+        "image": "20220621_193202145_iOS_jpg.rf.d41ce926139d074e0a3a2a12567e9c54.jpg",
+        "min": "0",
+        "max": "140",
+        "reading": "110",
+        "ticks": "4",
+        "reading_norm": "0.7857",
+        "tick_pos": "100,120"
+    },
+    {
+        "image": "211428_jpg.rf.39293ec01ac812e5d329e1d743e50ffd.jpg",
+        "min": "0",
+        "max": "200",
+        "reading": "25",
+        "ticks": "5",
+        "reading_norm": "0.125",
+        "tick_pos": "0,50"
+    },
+    {
+        "image": "29bd33660ac041e2a71db9da7e3af23b_jpeg_jpg.rf.e5ba56bf4baac7c2fdb90263f91f0142.jpg",
+        "min": "8",
+        "max": "18",
+        "reading": "8",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "8,10"
+    },
+    {
+        "image": "30-5144-aem-analog-fuel-pressure-gauge-15-psi-1_1024x1024_jpg.rf.4de353cfd5900691e4cd7ec9ba888243.jpg",
+        "min": "0",
+        "max": "15",
+        "reading": "9.6",
+        "ticks": "15",
+        "reading_norm": "0.64",
+        "tick_pos": "9,12"
+    },
+    {
+        "image": "30_5137_1__33029-1342029984_jpg.rf.65acfa556835bdbaaec8285acdd3b03a.jpg",
+        "min": "0",
+        "max": "60",
+        "reading": "38.5",
+        "ticks": "10",
+        "reading_norm": "0.6417",
+        "tick_pos": "30,40"
+    },
+    {
+        "image": "31caba4ab989408f98b657593db3b052_jpeg_jpg.rf.3ab3c5ab70a78bf1345b7e8b5c27aabe.jpg",
+        "min": "-60",
+        "max": "140",
+        "reading": "80",
+        "ticks": "10",
+        "reading_norm": "0.7",
+        "tick_pos": "60,80"
+    },
+    {
+        "image": "31fbf8dc64c14e0e8e14eede72ce5c50_jpeg_jpg.rf.60500644707895266ffd03dc31ec630a.jpg",
+        "min": "0",
+        "max": "120",
+        "reading": "27",
+        "ticks": "20",
+        "reading_norm": "0.225",
+        "tick_pos": "20,40"
+    },
+    {
+        "image": "35-031-0002_xx_1_jpg.rf.68f1c7da2730d7a1ff0f65dc9cf89615.jpg",
+        "min": "0",
+        "max": "5000",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,1000"
+    },
+    {
+        "image": "3ad82aece9bf49619fc2f9c805493385_jpeg_jpg.rf.2c21f2f5ec49e34a0a694a40b90d04dd.jpg",
+        "min": "0",
+        "max": "300",
+        "reading": "5",
+        "ticks": "5",
+        "reading_norm": "0.0167",
+        "tick_pos": "0,30"
+    },
+    {
+        "image": "4c2b0e19dc7c45db97155ff3a607214b_jpeg_jpg.rf.6b3b7eadf64642b5676ce26a4ba16c9b.jpg",
+        "min": "-40",
+        "max": "140",
+        "reading": "64",
+        "ticks": "10",
+        "reading_norm": "0.5778",
+        "tick_pos": "60,80"
+    },
+    {
+        "image": "4ed611fa69f24bfb9dc6ea56c4625e83_jpeg_jpg.rf.0d386126a774138d9c3d1cdcddd4264d.jpg",
+        "min": "-60",
+        "max": "120",
+        "reading": "70",
+        "ticks": "10",
+        "reading_norm": "0.7222",
+        "tick_pos": "60,80"
+    },
+    {
+        "image": "60221ebf-e9da-407d-a787-06c537fb83af_1-bf52ee4daf4745178cbbd79d3d402fd7_jpeg_jpg.rf.5c641814e107846e3218438ad3da1001.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "0.5",
+        "ticks": "5",
+        "reading_norm": "0.005",
+        "tick_pos": "0,10"
+    },
+    {
+        "image": "649f9ede5b604b23baa3740d53725c01_png_jpg.rf.1513e5b6bfa7d77c4f124011cf1412b2.jpg",
+        "min": "0",
+        "max": "1.2",
+        "reading": "0",
+        "ticks": "4",
+        "reading_norm": "0.0",
+        "tick_pos": "0,0.2"
+    },
+    {
+        "image": "6a5311ecbe1047cb94bbc71f6db96efe_jpeg_jpg.rf.f05c4a06aa1e24831abed96bada1d50c.jpg",
+        "min": "0",
+        "max": "300",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.0",
+        "tick_pos": "0,30"
+    },
+    {
+        "image": "71GKzopCtEL_jpg.rf.04036cbc6ebc3b7f65bdabba80365841.jpg",
+        "min": "0",
+        "max": "300",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,50"
+    },
+    {
+        "image": "7621_40_jpg.rf.1b9bfe266b90e37534b7495f07de365b.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,20"
+    },
+    {
+        "image": "77b3972905814e63a4c20b4cb952cc02_jpeg_jpg.rf.356eb779761fc04accb564c86d710102.jpg",
+        "min": "0",
+        "max": "300",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.0",
+        "tick_pos": "0,50"
+    },
+    {
+        "image": "77ea538c539d48acb037c9a414b41128_jpeg_jpg.rf.7a094f7da05c7407c68c589d663aa0b7.jpg",
+        "min": "0",
+        "max": "16",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,5"
+    },
+    {
+        "image": "7cbc14eea332421a80c6d5d0659dc584_jpeg_jpg.rf.66d42c945c1d3cb59a24714f73c6ef45.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.0",
+        "tick_pos": "0,2"
+    },
+    {
+        "image": "7da778bf3bf44b869ec9f1ce7f4cad0a_jpeg_jpg.rf.45584242bd2199dbcd003d5d37b23ac7.jpg",
+        "min": "0",
+        "max": "15",
+        "reading": "10.2",
+        "ticks": "15",
+        "reading_norm": "0.68",
+        "tick_pos": "9,12"
+    },
+    {
+        "image": "84b98fc3f1a34473a5800984110eabe1_jpeg_jpg.rf.c1f630a2d4661e420ae77b77760e9534.jpg",
+        "min": "-40",
+        "max": "140",
+        "reading": "68",
+        "ticks": "10",
+        "reading_norm": "0.6",
+        "tick_pos": "60,80"
+    },
+    {
+        "image": "86c633c5350a494f95b1dafc0d768415_jpeg_jpg.rf.4604793b7660023a7d578deb15ad8cc0.jpg",
+        "min": "10",
+        "max": "18",
+        "reading": "11.8",
+        "ticks": "5",
+        "reading_norm": "0.225",
+        "tick_pos": "11,12"
+    },
+    {
+        "image": "96bd357db08049ad8b248cdff4a7a5e9_jpeg_jpg.rf.821b2d0c95f7f7786140adbf4aac0c49.jpg",
+        "min": "0",
+        "max": "20",
+        "reading": "0",
+        "ticks": "8",
+        "reading_norm": "0.0",
+        "tick_pos": "0,2"
+    },
+    {
+        "image": "98827_jpg.rf.1518ea5db30baa77f5f1cb95de24d908.jpg",
+        "min": "0",
+        "max": "600",
+        "reading": "10",
+        "ticks": "10",
+        "reading_norm": "0.0167",
+        "tick_pos": "0,200"
+    },
+    {
+        "image": "Analog-water-pressure-gauge-manometer_png_jpg.rf.730e88cab03a0d8a605ed28315ccc1ad.jpg",
+        "min": "0",
+        "max": "12",
+        "reading": "0",
+        "ticks": "4",
+        "reading_norm": "0.0",
+        "tick_pos": "0,2"
+    },
+    {
+        "image": "Gauge_00017_jpg.rf.e44dacfdc7c8926c31e3a623f34b19eb.jpg",
+        "min": "0",
+        "max": "1500",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.0",
+        "tick_pos": "0,250"
+    },
+    {
+        "image": "Gauge_00030_jpg.rf.fc19b063dd47b7dc38436b533e5fef43.jpg",
+        "min": "0",
+        "max": "60",
+        "reading": "0",
+        "ticks": "5",
+        "reading_norm": "0.0",
+        "tick_pos": "0,10"
+    },
+    {
+        "image": "Gauge_00038_jpg.rf.f99537d0bb42e275b6ec3b708598b67e.jpg",
+        "min": "0",
+        "max": "6000",
+        "reading": "0",
+        "ticks": "20",
+        "reading_norm": "0.0",
+        "tick_pos": "0,1000"
+    },
+    {
+        "image": "Gauge_00041_jpg.rf.45955c8324fc4a25aec876864985ac3a.jpg",
+        "min": "0",
+        "max": "6",
+        "reading": "1.65",
+        "ticks": "10",
+        "reading_norm": "0.275",
+        "tick_pos": "1,2"
+    },
+    {
+        "image": "Gauge_00051_jpg.rf.79e275431d127b32805e4d045a44a5a6.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "99",
+        "ticks": "10",
+        "reading_norm": "0.99",
+        "tick_pos": "90,100"
+    },
+    {
+        "image": "Gauge_00090_jpg.rf.6b2e3acbb1a828e4a952a67a201e683d.jpg",
+        "min": "0",
+        "max": "16",
+        "reading": "6.5",
+        "ticks": "8",
+        "reading_norm": "0.4062",
+        "tick_pos": "6,8"
+    },
+    {
+        "image": "IMG_6306_JPG_jpg.rf.c8410f412142e1df9f1e8fa6161449a3.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "25",
+        "ticks": "20",
+        "reading_norm": "0.25",
+        "tick_pos": "20,40"
+    },
+    {
+        "image": "IMG_6361_JPG_jpg.rf.b1b1a16c4c9be9e56507b104d316fdad.jpg",
+        "min": "0",
+        "max": "50",
+        "reading": "28",
+        "ticks": "10",
+        "reading_norm": "0.56",
+        "tick_pos": "20,30"
+    },
+    {
+        "image": "aem_analog_metric_fuel_pressure_gauges_png_jpg.rf.7cf99781032dd552478c594ffa166931.jpg",
+        "min": "0",
+        "max": "6.9",
+        "reading": "4.35",
+        "ticks": "10",
+        "reading_norm": "0.6304",
+        "tick_pos": "4,5"
+    },
+    {
+        "image": "analog150psioil30-5135_Oil_Black_Bezel_Black_Face_712x700_jpg.rf.808a6c3a5dcd7ffda2bd15b01f219fc4.jpg",
+        "min": "0",
+        "max": "150",
+        "reading": "105",
+        "ticks": "5",
+        "reading_norm": "0.7",
+        "tick_pos": "90,105"
+    },
+    {
+        "image": "d855b901e84f4b3f8da2832d068e0dbc_jpeg_jpg.rf.b693c24d315cdb25808e00e21b40d0d6.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,1"
+    },
+    {
+        "image": "test2.png",
+        "min": "0",
+        "max": "5",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0"
+    },
+    {
+        "image": "f0fc8c6f8176424da05e204054983b74_jpeg_jpg.rf.9a8eb2d02c7ac3a343d14dbc32b30dcc.jpg",
+        "min": "0",
+        "max": "60",
+        "reading": "26",
+        "ticks": "10",
+        "reading_norm": "0.4333",
+        "tick_pos": "20,30"
+    },
+    {
+        "image": "g1_jpg.rf.df20c9deea36507933f7a86122f905af.jpg",
+        "min": "0",
+        "max": "500",
+        "reading": "240",
+        "ticks": "10",
+        "reading_norm": "0.48",
+        "tick_pos": "200,300"
+    },
+    {
+        "image": "g2_jpg.rf.18daa78aaa5e73bf39339e47723f501d.jpg",
+        "min": "0",
+        "max": "160",
+        "reading": "60",
+        "ticks": "20",
+        "reading_norm": "0.375",
+        "tick_pos": "60,80"
+    },
+    {
+        "image": "g4_jpg.rf.c362cad7e113cd3f47b7a13fb74b18f8.jpg",
+        "min": "0",
+        "max": "800",
+        "reading": "100",
+        "ticks": "10",
+        "reading_norm": "0.125",
+        "tick_pos": "0,200"
+    },
+    {
+        "image": "g56_jpg.rf.902bab18a0c34e64601812b56a2f4ca6.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "0",
+        "ticks": "10",
+        "reading_norm": "0.0",
+        "tick_pos": "0,2"
+    },
+    {
+        "image": "istockphoto-1005460162-612x612_jpg.rf.461804cba549f5d99f29b40b892e791a.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "4",
+        "ticks": "10",
+        "reading_norm": "0.4",
+        "tick_pos": "4,6"
+    },
+    {
+        "image": "istockphoto-1034702302-612x612_jpg.rf.b248415244c35506a74f85a9ec45ce2d.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "0.8",
+        "ticks": "10",
+        "reading_norm": "0.08",
+        "tick_pos": "0,1"
+    },
+    {
+        "image": "istockphoto-1443136524-612x612_jpg.rf.e211eb7e4b2ce64bbd2d481f64bf9878.jpg",
+        "min": "0",
+        "max": "40",
+        "reading": "20",
+        "ticks": "10",
+        "reading_norm": "0.5",
+        "tick_pos": "20,30"
+    },
+    {
+        "image": "istockphoto-496097382-612x612_jpg.rf.b5af49aebbffb35db1d24f2b439b2cce.jpg",
+        "min": "0",
+        "max": "25",
+        "reading": "11",
+        "ticks": "10",
+        "reading_norm": "0.44",
+        "tick_pos": "10,12"
+    },
+    {
+        "image": "pressureGauge_19_jpg.rf.a27a4371d59518f41141701d72a3b133.jpg",
+        "min": "0",
+        "max": "60",
+        "reading": "41",
+        "ticks": "10",
+        "reading_norm": "0.6833",
+        "tick_pos": "40,50"
+    },
+    {
+        "image": "pressureGauge_22_jpg.rf.165c79fa72b201a29081caba1d55a4ce.jpg",
+        "min": "0",
+        "max": "100",
+        "reading": "13",
+        "ticks": "10",
+        "reading_norm": "0.13",
+        "tick_pos": "0,20"
+    },
+    {
+        "image": "pressureGauge_293_jpg.rf.410c07f26f9fc16ed62982d927b3c42d.jpg",
+        "min": "0",
+        "max": "10",
+        "reading": "3.5",
+        "ticks": "4",
+        "reading_norm": "0.35",
+        "tick_pos": "2,4"
+    },
+    {
+        "image": "pressureGauge_4_jpg.rf.439f17b169e35f9f59964bea68c46856.jpg",
+        "min": "0",
+        "max": "6",
+        "reading": "1",
+        "ticks": "10",
+        "reading_norm": "0.1667",
+        "tick_pos": "1,2"
+    },
+    {
+        "image": "v_0035_f_0000_rgba.png",
+        "min": "-1",
+        "max": "4",
+        "reading": "-0.8",
+        "ticks": "10",
+        "reading_norm": "0.04",
+        "tick_pos": "-1,0"
+    },
+    {
+        "image": "v_0055_f_0000_rgba.png",
+        "min": "-2",
+        "max": "4",
+        "reading": "-1.85",
+        "ticks": "10",
+        "reading_norm": "0.025",
+        "tick_pos": "-2,-0.5"
+    },
+    {
+        "image": "v_0056_f_0000_rgba.png",
+        "min": "-1",
+        "max": "5",
+        "reading": "-0.85",
+        "ticks": "10",
+        "reading_norm": "0.025",
+        "tick_pos": "-1,0.5"
+    },
+    {
+        "image": "v_0061_f_0000_rgba.png",
+        "min": "-2",
+        "max": "2",
+        "reading": "-1.8",
+        "ticks": "10",
+        "reading_norm": "0.05",
+        "tick_pos": "-2,-1"
+    },
+    {
+        "image": "v_0127_f_0000_rgba.png",
+        "min": "0",
+        "max": "10",
+        "reading": "1",
+        "ticks": "10",
+        "reading_norm": "0.1",
+        "tick_pos": "0,2.5"
+    },
+    {
+        "image": "v_0451_f_0000_rgba.png",
+        "min": "-1",
+        "max": "6",
+        "reading": "5.5",
+        "ticks": "10",
+        "reading_norm": "0.9286",
+        "tick_pos": "5,6"
+    },
+    {
+        "image": "v_0462_f_0000_rgba.png",
+        "min": "-1",
+        "max": "5",
+        "reading": "4.7",
+        "ticks": "10",
+        "reading_norm": "0.95",
+        "tick_pos": "4,5"
+    }
+]
