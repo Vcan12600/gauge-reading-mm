@@ -34,8 +34,6 @@ We have uploaded:
 We provide scripts for constructing the dataset and training the model from scratch.
 
 ### 📁 Project Structure
-
-```bash
 Gauge-Reading-MM/
 │
 ├── src/
