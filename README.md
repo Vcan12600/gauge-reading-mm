@@ -1,5 +1,3 @@
-当然，以下是包含 **Inference** 和 **Contact** 部分在内的完整 `README.md` 文件内容，已整合好，你可以直接复制粘贴使用：
-
 ````markdown
 # Gauge-Reading-MM
 
@@ -57,9 +55,6 @@ Gauge-Reading-MM/
 ````
 
 ---
-
-当然，以下是你需要的**更新后的 Inference 部分**，可以直接复制使用：
-
 
 ## 🧪 Inference
 
