@@ -94,6 +94,3 @@ If you have any questions, feedback, or issues, feel free to:
 * Contact us via email at **[vacanth0126@gmail.com](mailto:vacanth0126@gmail.com)**
 
 We appreciate your interest and contributions!
-
-```
-```
