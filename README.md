@@ -1,4 +1,3 @@
-````markdown
 # Gauge-Reading-MM
 
 This repository accompanies our paper submission:
@@ -51,7 +50,7 @@ Gauge-Reading-MM/
 │
 ├── model/                     # Saved model weights (e.g., best_model.pth)
 └── save/                      # Optional directory for logs, checkpoints, etc.
-````
+
 
 ---
 
