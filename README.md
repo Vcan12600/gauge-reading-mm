@@ -1,3 +1,6 @@
+当然，以下是包含 **Inference** 和 **Contact** 部分在内的完整 `README.md` 文件内容，已整合好，你可以直接复制粘贴使用：
+
+````markdown
 # Gauge-Reading-MM
 
 This repository accompanies our paper submission:
@@ -8,21 +11,23 @@ This repository accompanies our paper submission:
 
 ## 📌 Code Status
 
-The code is currently being cleaned and organized.  
+The code is currently being cleaned and organized.
 
 We have uploaded:
 
 - ✅ Fine-tuning code (`src/`)
 - ✅ Training and evaluation dataset (`dataset/`)
 - ✅ Configuration (`src/training_config.py`)
-- 🛠️ Inference and evaluation scripts will be added soon
+- ✅ Inference script (`src/inference.py`)  
+- 🛠️ Evaluation utilities will be added soon
 
 ---
 
 ## 🔄 Updates
 
 - **[2025-07]** Initial release with fine-tuning pipeline and dataset  
-- **Next:** Inference demo and model checkpoints
+- **[2025-07]** Added inference script and model checkpoint  
+- **Next:** Inference demo notebook and evaluation utilities
 
 ---
 
@@ -39,6 +44,7 @@ Gauge-Reading-MM/
 │   ├── build_dataset.py       # Script to preprocess/construct training data
 │   ├── finetuning.py          # Fine-tuning entry point
 │   ├── training_config.py     # Training parameters and config
+│   └── inference.py           # 🔍 Inference script
 │
 ├── dataset/
 │   ├── train/                 # Training images
@@ -48,3 +54,52 @@ Gauge-Reading-MM/
 │
 ├── model/                     # Saved model weights (e.g., best_model.pth)
 └── save/                      # Optional directory for logs, checkpoints, etc.
+````
+
+---
+
+当然，以下是你需要的**更新后的 Inference 部分**，可以直接复制使用：
+
+
+## 🧪 Inference
+
+You can run inference using the provided script:
+
+```bash
+python src/inference.py --image path/to/image.jpg --model_path model/model.safetensors --prompt reading
+````
+
+Available arguments:
+
+* `--image`: Path to the input image
+* `--model_path`: Path to the trained model checkpoint (`.safetensors` or `.pth`)
+* `--prompt`: Inference mode prompt, must be one of:
+
+  * `norm`: Read normalized meter value
+  * `reading`: Read real-world meter value
+
+
+
+### 📥 Model Weights
+
+Model checkpoints can be downloaded from the following link:
+
+* **Download URL:** [https://pan.baidu.com/s/16Dtp1GJ4r0SJC9OLj2g8Zg?pwd=85gv](https://pan.baidu.com/s/16Dtp1GJ4r0SJC9OLj2g8Zg?pwd=85gv)
+* **(Extraction Code):** `85gv`
+
+After downloading, place the `.pth` file into the `model/` directory before running inference.
+
+---
+
+## 📬 Contact
+
+If you have any questions, feedback, or issues, feel free to:
+
+* Open an [issue](https://github.com/Vcan12600/gauge-reading-mm/issues)
+* Submit a pull request
+* Contact us via email at **[vacanth0126@gmail.com](mailto:vacanth0126@gmail.com)**
+
+We appreciate your interest and contributions!
+
+```
+```
