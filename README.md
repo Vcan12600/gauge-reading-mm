@@ -34,6 +34,7 @@ We provide scripts for constructing the dataset and training the model from scra
 
 ### 📁 Project Structure
 
+```bash
 Gauge-Reading-MM/
 │
 ├── src/
