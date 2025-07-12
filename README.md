@@ -1,4 +1,4 @@
-````markdown
+---
 # Gauge-Reading-MM
 
 This repository accompanies our paper submission:
@@ -13,19 +13,19 @@ The code is currently being cleaned and organized.
 
 We have uploaded:
 
-- ✅ Fine-tuning code (`src/`)
-- ✅ Training and evaluation dataset (`dataset/`)
-- ✅ Configuration (`src/training_config.py`)
-- ✅ Inference script (`src/inference.py`)  
-- 🛠️ Evaluation utilities will be added soon
+* ✅ Fine-tuning code (`src/`)
+* ✅ Training and evaluation dataset (`dataset/`)
+* ✅ Configuration (`src/training_config.py`)
+* ✅ Inference script (`src/inference.py`)
+* 🛠️ Evaluation utilities will be added soon
 
 ---
 
 ## 🔄 Updates
 
-- **[2025-07]** Initial release with fine-tuning pipeline and dataset  
-- **[2025-07]** Added inference script and model checkpoint  
-- **Next:** Inference demo notebook and evaluation utilities
+* **\[2025-07]** Initial release with fine-tuning pipeline and dataset
+* **\[2025-07]** Added inference script and model checkpoint
+* **Next:** Inference demo notebook and evaluation utilities
 
 ---
 
@@ -34,23 +34,25 @@ We have uploaded:
 We provide scripts for constructing the dataset and training the model from scratch.
 
 ### 📁 Project Structure
-Gauge-Reading-MM/
-│
-├── src/
-│   ├── build_dataset.py       # Script to preprocess/construct training data
-│   ├── finetuning.py          # Fine-tuning entry point
-│   ├── training_config.py     # Training parameters and config
-│   └── inference.py           # 🔍 Inference script
-│
-├── dataset/
-│   ├── train/                 # Training images
-│   └── eval/                  # Evaluation set
-│       ├── images/            # Test/eval images
-│       └── labels.json        # Ground truth labels
-│
-├── model/                     # Saved model weights (e.g., best_model.pth)
-└── save/                      # Optional directory for logs, checkpoints, etc.
-````
+
+* **Gauge-Reading-MM/**
+
+  * **src/**
+
+    * `build_dataset.py` – Script to preprocess/construct training data
+    * `finetuning.py` – Fine-tuning entry point
+    * `training_config.py` – Training parameters and config
+    * `inference.py` – 🔍 Inference script
+  * **dataset/**
+
+    * `train/` – Training images
+    * `eval/` – Evaluation set
+
+      * `images/` – Test/eval images
+      * `labels.json` – Ground truth labels
+  * **model/** – Saved model weights (e.g., `best_model.pth`)
+  * **save/** – Optional directory for logs, checkpoints, etc.
+
 
 ---
 
