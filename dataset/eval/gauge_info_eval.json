@@ -1,86 +1,5 @@
 [
     {
-        "image": "(1007).jpg",
-        "min": "0",
-        "max": "60",
-        "reading": "0",
-        "ticks": "10",
-        "reading_norm": "0.0",
-        "tick_pos": "0,10"
-    },
-    {
-        "image": "(1347).jpg",
-        "min": "0",
-        "max": "0.6",
-        "reading": "0.24",
-        "ticks": "10",
-        "reading_norm": "0.4",
-        "tick_pos": "0.2,0.3"
-    },
-    {
-        "image": "(1359).jpg",
-        "min": "0",
-        "max": "0.1",
-        "reading": "0.014",
-        "ticks": "10",
-        "reading_norm": "0.14",
-        "tick_pos": "0,0.02"
-    },
-    {
-        "image": "(19038).jpg",
-        "min": "0",
-        "max": "3",
-        "reading": "0.5",
-        "ticks": "10",
-        "reading_norm": "0.1667",
-        "tick_pos": "0,1"
-    },
-    {
-        "image": "(8263).jpg",
-        "min": "0",
-        "max": "3",
-        "reading": "0.6",
-        "ticks": "10",
-        "reading_norm": "0.2",
-        "tick_pos": "0,1"
-    },
-    {
-        "image": "(8372).jpg",
-        "min": "0",
-        "max": "70",
-        "reading": "33",
-        "ticks": "10",
-        "reading_norm": "0.4714",
-        "tick_pos": "30,40"
-    },
-    {
-        "image": "(945).jpg",
-        "min": "0",
-        "max": "1.6",
-        "reading": "0",
-        "ticks": "8",
-        "reading_norm": "0.0",
-        "tick_pos": "0,0.4"
-    },
-    {
-        "image": "0306.jpg",
-        "min": "-0.1",
-        "max": "0.9",
-        "reading": "0.52",
-        "ticks": "10",
-        "reading_norm": "0.62",
-        "tick_pos": "0.4,0.6"
-    },
-    {
-        "image": "0313.jpg",
-        "min": "-0.1",
-        "max": "0.9",
-        "reading": "0.52",
-        "ticks": "10",
-        "reading_norm": "0.62",
-        "tick_pos": "0.4,0.6"
-    },
-    {
         "image": "04fbbd770ed141a6bef466590b43a4f0_jpeg_jpg.rf.dee648de32366c7f4f000b8618b41587.jpg",
         "min": "140",
         "max": "280",
@@ -88,33 +7,6 @@
         "ticks": "2",
         "reading_norm": "0.0",
         "tick_pos": "140,160"
-    },
-    {
-        "image": "1101003866030103662.jpg",
-        "min": "0",
-        "max": "3",
-        "reading": "0.5",
-        "ticks": "10",
-        "reading_norm": "0.1667",
-        "tick_pos": "0,1"
-    },
-    {
-        "image": "110100386603010603.jpg",
-        "min": "0",
-        "max": "5",
-        "reading": "2.1",
-        "ticks": "10",
-        "reading_norm": "0.42",
-        "tick_pos": "2,3"
-    },
-    {
-        "image": "110100386603010604.jpg",
-        "min": "0",
-        "max": "5",
-        "reading": "2.1",
-        "ticks": "10",
-        "reading_norm": "0.42",
-        "tick_pos": "2,3"
     },
     {
         "image": "150-1_jpg.rf.b1fe8943b002f3a50a963f690328cb30.jpg",
